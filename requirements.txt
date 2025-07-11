@@ -1,0 +1,7 @@
+easyocr
+pandas
+numpy
+requests
+rapidfuzz
+streamlit
+python-dotenv
