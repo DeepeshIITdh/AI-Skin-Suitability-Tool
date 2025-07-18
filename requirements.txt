@@ -4,4 +4,5 @@ numpy
 requests
 rapidfuzz
 streamlit
+tensorflow
 python-dotenv

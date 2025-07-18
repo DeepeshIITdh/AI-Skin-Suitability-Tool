@@ -12,4 +12,3 @@ A Streamlit-based AI tool that helps users evaluate the **suitability of skincar
 - 📊 **Weighted suitability score** that reflects both rating and skin match
 - ✅ Visual verdict (Suitable / Moderate / Not Suitable)
 - 📤 Built-in support for uploading images of products or ingredients
-- 🔧 Fully customizable via `.env` for managing paths
